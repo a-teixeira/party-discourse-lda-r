@@ -106,6 +106,12 @@ source("analysis/01_analysis.R")
 
 ---
 
+## Course poster (graded)
+
+![Course poster](output/poster/Poster_CSS_Final.png)
+
+- Preview (PNG): [`output/figures/Poster_CSS_Final.png`](output/figures/Poster_CSS_Final.png)
+
 ## Author
 
 Augusto Teixeira · TUM Computational Social Science course project
