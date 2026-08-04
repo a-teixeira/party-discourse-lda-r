@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# large / restricted raw data
+data/raw/**
+!data/raw/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
